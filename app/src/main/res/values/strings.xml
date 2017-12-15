@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServicesNearBy</string>
+    <string-array name="services">
+        <item>Hospitals</item>
+        <item>Hotels</item>
+        <item>Petrol Stations</item>
+        <item>Chemist</item>
+        <item>Restaurants</item>
+    </string-array>
+
+</resources>
